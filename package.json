@@ -1,9 +1,9 @@
 {
 	"name": "sublime-snippets-js",
-	"version": "1.2.1",
+	"version": "1.3.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/zenorocha/sublime-snippets-js.git"
+		"url": "https://github.com/ivovermeer/sublime-snippets-js.git"
 	},
 	"devDependencies": {
 		"grunt": "0.4.2",
